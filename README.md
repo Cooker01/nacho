@@ -1,3 +1,3 @@
-# Document Heading
+# Sandbox for GIThub team exercises
 
 This is a repository for mastering git related functions and processes.
