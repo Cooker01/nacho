@@ -1,3 +1,3 @@
 # Arm and Terraform templates
 
-This is a repository for mastering git related functions and processes.
+This is a repository for collaborated training, all other repos are private.
